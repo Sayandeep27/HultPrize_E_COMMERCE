@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/HultPrize_E_COMMERCE/static/css/main.cb4aa49a.css",
+    "main.js": "/HultPrize_E_COMMERCE/static/js/main.d9aca05f.js",
+    "static/media/logo.png": "/HultPrize_E_COMMERCE/static/media/logo.940c40f2c24be5524041.png",
+    "static/media/slick.svg": "/HultPrize_E_COMMERCE/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/HultPrize_E_COMMERCE/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/HultPrize_E_COMMERCE/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/HultPrize_E_COMMERCE/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/HultPrize_E_COMMERCE/index.html",
+    "main.cb4aa49a.css.map": "/HultPrize_E_COMMERCE/static/css/main.cb4aa49a.css.map",
+    "main.d9aca05f.js.map": "/HultPrize_E_COMMERCE/static/js/main.d9aca05f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4aa49a.css",
+    "static/js/main.d9aca05f.js"
+  ]
+}
